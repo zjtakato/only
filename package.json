@@ -1,0 +1,16 @@
+{
+  "name": "@zjtakato/only",
+  "version": "1.0.0",
+  "description": "设置对象白名单属性并返回",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zjtakato",
+    "@zjtakato",
+    "only"
+  ],
+  "author": "zjtakato <zjtakato@gmail.com>",
+  "license": "ISC"
+}
