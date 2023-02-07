@@ -1,5 +1,8 @@
 /**
  * 设置对象白名单属性并返回
+ * @example
+ * only(obj, ('name age'))
+ * only(obj, ['name', 'age'])
  * @param { Object } target - 要设置的对象
  * @param { Array<string> | string } keys - 白名单属性 例如: 'name age' 或 ['name', 'age']
  * @param { Object } options - 选型
